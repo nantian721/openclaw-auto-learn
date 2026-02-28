@@ -1,0 +1,342 @@
+{
+  "report_time": "2026-02-28T11:13:50.486811",
+  "period_start": "2026-02-28T10:13:12.517203",
+  "period_end": "2026-02-28T11:13:50.486833",
+  "total_learned": 29,
+  "categories": {
+    "电商类": 7,
+    "字幕类": 10,
+    "剪辑类": 12
+  },
+  "skills": [
+    {
+      "id": "taobao-hot-cn",
+      "name": "Taobao Hot Cn",
+      "description": "相关度: 3.304",
+      "category": "电商类",
+      "keyword": "taobao",
+      "learned_at": "2026-02-28T10:14:17.198134",
+      "status": "installed",
+      "requirements": [
+        "Token/Auth"
+      ],
+      "install_output": null
+    },
+    {
+      "id": "taobao",
+      "name": "🛍️ 淘宝/京东/拼多多比价技能",
+      "description": "相关度: 2.292",
+      "category": "电商类",
+      "keyword": "taobao",
+      "learned_at": "2026-02-28T10:15:21.965852",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "aliyun-asr",
+      "name": "Aliyun Asr",
+      "description": "相关度: 3.396",
+      "category": "字幕类",
+      "keyword": "asr",
+      "learned_at": "2026-02-28T10:17:29.006909",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "doubao-asr",
+      "name": "Doubao ASR / 豆包语音转写",
+      "description": "相关度: 3.165",
+      "category": "字幕类",
+      "keyword": "asr",
+      "learned_at": "2026-02-28T10:22:12.508422",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "zhipu-asr",
+      "name": "Zhipu AI ASR",
+      "description": "相关度: 3.147",
+      "category": "字幕类",
+      "keyword": "asr",
+      "learned_at": "2026-02-28T10:23:18.848609",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "asr",
+      "name": "Speech is Cheap Transcribe",
+      "description": "相关度: 2.006",
+      "category": "字幕类",
+      "keyword": "asr",
+      "learned_at": "2026-02-28T10:24:23.853920",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "prayer-times",
+      "name": "Prayer Times, World Salah Times",
+      "description": "相关度: 0.748",
+      "category": "字幕类",
+      "keyword": "asr",
+      "learned_at": "2026-02-28T10:25:28.443517",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "bilibili-subtitle-download-skill",
+      "name": "Bilibili Subtitle Downloader",
+      "description": "相关度: 3.381",
+      "category": "字幕类",
+      "keyword": "subtitle",
+      "learned_at": "2026-02-28T10:29:39.129111",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "assemblyai-transcribe",
+      "name": "AssemblyAI advanced speech transcription",
+      "description": "相关度: 0.967",
+      "category": "字幕类",
+      "keyword": "subtitle",
+      "learned_at": "2026-02-28T10:39:13.930160",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "video-captions",
+      "name": "Video Captions",
+      "description": "相关度: 0.776",
+      "category": "剪辑类",
+      "keyword": "subtitle",
+      "learned_at": "2026-02-28T10:40:18.322651",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "xiaohongshu-downloader",
+      "name": "小红书视频下载器",
+      "description": "相关度: 0.715",
+      "category": "字幕类",
+      "keyword": "subtitle",
+      "learned_at": "2026-02-28T10:41:22.671622",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "video-news-downloader",
+      "name": "Video News Downloader",
+      "description": "相关度: 0.709",
+      "category": "剪辑类",
+      "keyword": "subtitle",
+      "learned_at": "2026-02-28T10:42:27.230624",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "opensubtitles",
+      "name": "OpenSubtitles Read-only",
+      "description": "相关度: 0.682",
+      "category": "字幕类",
+      "keyword": "subtitle",
+      "learned_at": "2026-02-28T10:43:31.620072",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "bili-summary",
+      "name": "Bili Summary",
+      "description": "相关度: 0.606",
+      "category": "字幕类",
+      "keyword": "subtitle",
+      "learned_at": "2026-02-28T10:44:35.909090",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "alicloud-ai-image-qwen-image-edit",
+      "name": "Alicloud Ai Image Qwen Image Edit",
+      "description": "相关度: 3.277",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T10:50:21.293415",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "image-edit",
+      "name": "Image Editing",
+      "description": "相关度: 2.938",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T10:52:01.284283",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "video-edit",
+      "name": "Video Editing",
+      "description": "相关度: 2.892",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T10:53:05.416637",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "pls-copy-editing",
+      "name": "PLS Copy Editing",
+      "description": "相关度: 2.131",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T10:54:09.331496",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "office-document-editor",
+      "name": "Office Document Editor",
+      "description": "相关度: 2.122",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T10:55:13.634270",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "markdown-editor-with-chat",
+      "name": "Markdown Editor With Chat",
+      "description": "相关度: 2.107",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T10:56:17.758059",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "todo-management",
+      "name": "Todo management",
+      "description": "相关度: 0.959",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T10:57:21.638977",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "todo-management-1-1-2",
+      "name": "Todo Management 1.1.2",
+      "description": "相关度: 0.877",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T10:58:30.752448",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "aoi-demo-clip-maker",
+      "name": "AOI Demo Clip Maker",
+      "description": "相关度: 0.740",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T10:59:34.933589",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "docx-md",
+      "name": "docx-md",
+      "description": "相关度: 0.708",
+      "category": "剪辑类",
+      "keyword": "edit",
+      "learned_at": "2026-02-28T11:01:14.918703",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "shopify-admin-api",
+      "name": "Shopify Admin API",
+      "description": "相关度: 3.566",
+      "category": "电商类",
+      "keyword": "shopify",
+      "learned_at": "2026-02-28T11:03:34.627701",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "openclaw-commerce-shopify",
+      "name": "Openclaw Commerce Shopify",
+      "description": "相关度: 3.445",
+      "category": "电商类",
+      "keyword": "shopify",
+      "learned_at": "2026-02-28T11:04:42.371884",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "shopify-checkout",
+      "name": "Shopify Checkout API",
+      "description": "相关度: 3.059",
+      "category": "电商类",
+      "keyword": "shopify",
+      "learned_at": "2026-02-28T11:09:32.977011",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "clawpify",
+      "name": "Clawpify",
+      "description": "相关度: 1.041",
+      "category": "电商类",
+      "keyword": "shopify",
+      "learned_at": "2026-02-28T11:10:44.691139",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    },
+    {
+      "id": "ecommerce",
+      "name": "Ecommerce",
+      "description": "相关度: 3.524",
+      "category": "电商类",
+      "keyword": "ecommerce",
+      "learned_at": "2026-02-28T11:13:50.479478",
+      "status": "installed",
+      "requirements": null,
+      "install_output": null
+    }
+  ],
+  "need_config": [
+    {
+      "name": "Taobao Hot Cn",
+      "requirements": [
+        "Token/Auth"
+      ]
+    }
+  ]
+}

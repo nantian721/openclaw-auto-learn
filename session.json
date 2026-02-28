@@ -1,0 +1,22 @@
+{
+  "user": "南天",
+  "current_session": {
+    "session_id": "session_20260227_033110",
+    "start_time": "2026-02-27T03:31:10",
+    "last_activity": "2026-02-27T03:31:10",
+    "status": "active"
+  },
+  "last_session": {
+    "session_id": null,
+    "end_time": null,
+    "duration_minutes": null
+  },
+  "stats": {
+    "total_sessions": 1,
+    "total_interactions": 2,
+    "skills_installed": [],
+    "skills_used": ["cron"],
+    "files_created": ["logs/lobsterai.log"],
+    "files_modified": []
+  }
+}
