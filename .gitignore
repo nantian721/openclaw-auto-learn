@@ -1,0 +1,35 @@
+# 敏感配置文件
+.env
+secrets.env
+
+# 日志文件
+logs/
+*.log
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 个人数据文件
+learned_skills.json
+hourly_report.json
+reported_to_user.json
+session.json
+
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 邮件示例（可选保留）
+# email_sample.html
