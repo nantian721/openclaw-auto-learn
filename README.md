@@ -182,7 +182,7 @@ A: 当前仅支持 Windows。移植需要替换 `GetLastInputInfo` 为 X11/Cocoa
 
 **南天** ([@nantian721](https://github.com/nantian721))
 
-> 杭州新市民 | AIGC 探索者 | 电商直播背景 | 备考高项中
+> 二次元新市民 | AIGC 探索者 | 电商直播背景 | 备考高项中
 
 ## 许可
 
